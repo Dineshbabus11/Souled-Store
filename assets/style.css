@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+}
+nav{
+    background-color: rgb(240, 21, 21);
+    color: white;
+    padding: 15px;
+}
+p{
+    cursor: pointer;
+}
+.f:hover{
+    background-color: rgb(226, 124, 124);
+}
+li{
+    display: inline;
+}
+li{
+    margin-left: 20px;
+}
