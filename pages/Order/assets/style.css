@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+    margin: 0px;
+}
+nav{
+    color: white;
+    background-color: red;
+}
+.box{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    width: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    display: inline-block;
+    font-weight: bold;
+    cursor: pointer;
+}
+.n2{
+    display: inline;
+    margin-left: 300px;
+    font-size: small;
+}
+.n{
+    display: inline-block;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.box:hover{
+    background-color: rgb(241, 56, 56);
+}
