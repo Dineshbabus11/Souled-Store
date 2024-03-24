@@ -30,9 +30,6 @@ nav{
 .box:hover{
     background-color: rgb(241, 56, 56);
 }
-li{
-    display: inline-block;
-}
 .icon{
     text-align: right;
     margin-right: 60px;
